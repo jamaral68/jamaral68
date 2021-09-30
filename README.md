@@ -3,7 +3,6 @@
 <p align="center">
   <img src="banner.png" >
 </p>
-
 # Jorge Amaral
 <sub>*Associate Professor at Staet University of Rio de Janeiro</sub>
 
